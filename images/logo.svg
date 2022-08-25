@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="91px" height="106px" viewBox="0 0 91 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组@3x</title>
+    <defs>
+        <linearGradient x1="86.0652243%" y1="100%" x2="28.1363401%" y2="-24.2693873%" id="linearGradient-1">
+            <stop stop-color="#4924E6" offset="0%"></stop>
+            <stop stop-color="#18095A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="74.2035333%" y1="50%" x2="-2.04635405%" y2="21.6632504%" id="linearGradient-2">
+            <stop stop-color="#5534DF" offset="0%"></stop>
+            <stop stop-color="#3400F2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="13.9347757%" y1="1.70386842e-14%" x2="66.629655%" y2="117.885857%" id="linearGradient-3">
+            <stop stop-color="#4924E6" offset="0%"></stop>
+            <stop stop-color="#18095A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="31.3731008%" y1="38.3293382%" x2="91.3563746%" y2="117.732617%" id="linearGradient-4">
+            <stop stop-color="#4D2ED4" offset="0%"></stop>
+            <stop stop-color="#3400F2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="登录" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录页备份-5" transform="translate(-142.000000, -135.000000)">
+            <g id="logo" transform="translate(142.000000, 135.000000)">
+                <polygon id="Fill-1" fill="url(#linearGradient-1)" points="0 74.0210458 33.5210655 94.0109999 33.5210655 54.5417841"></polygon>
+                <polygon id="Fill-2" fill="url(#linearGradient-2)" points="51.5010062 0 0 29.0350137 0 74.0220881 51.5010062 44.0952241"></polygon>
+                <polygon id="Fill-4" fill="url(#linearGradient-3)" points="57.478339 50.5186309 90.9994044 31.040858 57.478339 11.0494151"></polygon>
+                <polygon id="Fill-5" fill="url(#linearGradient-4)" points="39.4989938 60.9659353 39.4989938 105.05967 91 76.0261457 91 31.0390713"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
