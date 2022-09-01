@@ -722,7 +722,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0.4), rgba(0, 0, 104, 1)), url('../images/bg.jpeg') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0.4), rgba(0, 0, 104, 1)), url('https://s3.bmp.ovh/imgs/2022/09/01/82420e78371e051f.jpeg') center center no-repeat;
 	background-size: cover;
 }
 
